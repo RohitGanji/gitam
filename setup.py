@@ -5,7 +5,7 @@ with open('README.md') as readme_file:
 
 setup_args = dict(
     name='gitam',
-    version=0.2,
+    version="0.3.1",
     description='Useful tools to extract data from GITAM University websites.',
     long_description_content_type="text/markdown",
     long_description=README,
